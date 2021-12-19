@@ -15,20 +15,15 @@
 <a href='https://www.hackerrank.com/CoDeZ_0'><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/></a>
 <a href='https://auth.geeksforgeeks.org/user/neofetch/practice/'><img src='https://img.shields.io/badge/-geeksforgeeks-080704?style=for-the-badge&logo=geeksforgeeks'/></a>
 
-<br/>
-<br/>
+<br/><br/>
 
 <div align='center'>
 
-#
-
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/UjjwalSk/UjjwalSk/blob/main/github.gif?raw=true"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="./github.gif"></a>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
-<br/>
-
 <code><img src="./icons/python-original.svg" alt="python" width="40" height="40"/></code> 
 <code><img src="./icons/c-original.svg" alt="C" width="40" height="40"/></code>
 <code><img src="./icons/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
@@ -46,20 +41,22 @@
 <code><img src="./icons/win11.svg" alt="Win11" width="40" height="40"/></code>
 <code><img src="./icons/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 
-<br/>
+<br/><br/>
 
 #
 </div>
 
-### PROJECTS
+<h1 align='center'>Projects</h1><br>
 
-- [SORTING VISUALIZER](https://github.com/UjjwalSk/Sorting-Visualizer)
-- [MUSIC PLAYER PROJECT](https://github.com/UjjwalSk/Music-Player-qwerty)
-- [STELLAR](https://github.com/UjjwalSk/stellar)
-- [WEATHERIA](https://github.com/UjjwalSk/Weatheria)
-- [INFOPANEL - AN INSTITUTE DATABASE MANAGEMENT SYSTEM](https://github.com/UjjwalSk/infoPanel)
-- [RANDOM THOUGHT GENERATOR](https://github.com/UjjwalSk/Random-Thought-Generator)
-- [GMAP LOCATOR](https://github.com/UjjwalSk/gmap-locator)
+### - [SORTING VISUALIZER](https://github.com/UjjwalSk/Sorting-Visualizer)
+### - [MUSIC PLAYER PROJECT](https://github.com/UjjwalSk/Music-Player-qwerty)
+### - [STELLAR](https://github.com/UjjwalSk/stellar)
+### - [WEATHERIA](https://github.com/UjjwalSk/Weatheria)
+### - [INFOPANEL - AN INSTITUTE DATABASE MANAGEMENT SYSTEM](https://github.com/UjjwalSk/infoPanel)
+### - [RANDOM THOUGHT GENERATOR](https://github.com/UjjwalSk/Random-Thought-Generator)
+### - [GMAP LOCATOR](https://github.com/UjjwalSk/gmap-locator)
+
+<br/>
 
 <details open="">
 <summary>
