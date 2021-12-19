@@ -33,7 +33,7 @@
 <code><img src="./icons/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/></code> 
 <code><img src="./icons/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
 <code><img src="./icons/react-original-wordmark.svg" alt="React" width="40" height="40"/></code> 
-  #
+  # 
 <code><img src="./icons/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
 <code><img src="./icons/github.svg" alt="github" width="40" height="40"/></code> 
 <code><img src="./icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
