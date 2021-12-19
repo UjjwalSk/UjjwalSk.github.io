@@ -21,9 +21,9 @@
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="./github.gif"></a>
 <br/>
-
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
+<br/><br/>
+<b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:</b>
+<br/><br/>
 <code><img src="./icons/python-original.svg" alt="python" width="40" height="40"/></code> 
 <code><img src="./icons/c-original.svg" alt="C" width="40" height="40"/></code>
 <code><img src="./icons/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
