@@ -1,8 +1,6 @@
 <h1 align='center'>Hi there , I'm Ujjwal 👋🏻</h1><br>
 
-<a target="_blank">
-  <img align="right" height="300" width="300" src="./icons/code.svg">
-</a>
+<img align="right" height="300" width="300" src="./icons/code.svg">
 
 - 🔭 𝙸'𝚖 𝟸𝚗𝚍 𝚢𝚎𝚊𝚛 BE CSE student.
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 😁
@@ -11,9 +9,10 @@
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <span>[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ujjwal-7a3ba31ba/)   [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:ujsk07@gmail.com)</span>
 
 <br/>
-&emsp;&emsp;<a href='https://www.codechef.com/users/ujju07'><img src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'/></a>
-<a href='https://www.hackerrank.com/CoDeZ_0'><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/></a>
-<a href='https://auth.geeksforgeeks.org/user/neofetch/practice/'><img src='https://img.shields.io/badge/-geeksforgeeks-080704?style=for-the-badge&logo=geeksforgeeks'/></a>
+
+<a href='https://www.codechef.com/users/ujju07'><img height="25" width="120" src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'/></a>
+<a href='https://www.hackerrank.com/CoDeZ_0'><img height="25" width="120" src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/></a>
+<a href='https://auth.geeksforgeeks.org/user/neofetch/practice/'><img height="25" width="130" src='https://img.shields.io/badge/-geeksforgeeks-080704?style=for-the-badge&logo=geeksforgeeks'/></a>
 
 <br/><br/>
 
