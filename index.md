@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there , I'm Ujjwal 👋🏻</h1><br>
 
 <a target="_blank">
-  <img align="right" height="200" width="300" src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/code.svg">
+  <img align="right" height="200" width="300" src="./icons/code.svg">
 </a>
 
 - 🔭 𝙸'𝚖 𝟸𝚗𝚍 𝚢𝚎𝚊𝚛 BE CSE student.
