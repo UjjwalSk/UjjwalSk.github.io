@@ -43,9 +43,9 @@
 
 <br/><br/>
 
-#
-</div>
 
+</div>
+<br/><br/>
 <h1 align='center'>Projects</h1><br>
 
 ### - [SORTING VISUALIZER](https://github.com/UjjwalSk/Sorting-Visualizer)
